@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.deps.json
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.json
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.dll
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.pdb
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
+C:\Users\Peter\source\repos\ConfigureApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb
